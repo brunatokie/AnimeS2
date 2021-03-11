@@ -1,4 +1,3 @@
 # AnimeS2
 
-MVC architecture for a while
-JIKAN api
+MVC architecture for a while and JIKAN api
